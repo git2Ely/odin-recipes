@@ -1,2 +1,4 @@
 # odin-recipes
-Recipe project from TOP
+Recipe project from The Odin Project'
+
+Basic project to practice HTML
